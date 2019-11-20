@@ -1,5 +1,6 @@
 # HTML と CSS
-
+HTMLはHyperText Markup Languageの略ですごいマークアップ言語っていう意味だよ
+CSSはCascading Style Sheetsの略で連鎖的に反映されるスタイルシートっていう意味だよ
 ## HTML と CSS の役割
 
 ## HTML を書いてみよう
